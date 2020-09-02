@@ -1,0 +1,6 @@
+flask
+pytest
+pymongo>=2.7.1
+mongoengine
+config_manager
+configparser
